@@ -1,5 +1,4 @@
-**Internet Speed Complain tBot
-**
+**Internet Speed Complaint Bot**
 
 **Overview**
 InternetSpeedComplaintBot is an automated script written in Python using Selenium WebDriver. Its primary function is to check the internet speed using Speedtest.net and, if the speed is below a certain threshold, log into Twitter and post a complaint to your Internet Service Provider (ISP).
